@@ -3,3 +3,4 @@
 #to run the project
 
 pthon Attendance.py
+You must install dlib based on your python version
